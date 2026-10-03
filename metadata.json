@@ -1,0 +1,6 @@
+{
+  "name": "Quizzy Class",
+  "description": "A funny casual 2D cartoon quiz game with expressive characters, trick questions, combos, power-ups, and classroom progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
